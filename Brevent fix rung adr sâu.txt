@@ -1,0 +1,32 @@
+Settings put system events.fling_pu
+Settings put system  cpu.core_lspeeds.cluster value
+Settings put system  debug.sf disable_backpressure 1
+Settings put system debug.sf.enable_hwc_vds 1
+Settings put system events.gpu gpu
+Settings put system cpu.core_speeds cluster1 value
+Settings put system user_refresh_rate 90
+Settings put system peak_refresh _rate 1
+Settings put system windowsmgr.max_events_per_sec 150
+Settings put system ro.min_pointer_dur 8
+Settings put system ro.max.flingvelocity 12000
+Settings put system ro.min.fling_velocity 9000
+Settings put system ring.delay 0
+Settings put system debug.gr.swapinterval 0
+settings put system ro.HOME_APP_ADJ 1
+settings put global zram_enabled 1
+settings put global ram_expand_size_list "10"
+settings put system ram_expand_size "16384"
+settings put system ro.config.low_ram "true"
+settings put system ro.lmk.use_psi "true"
+settings put system ro.lmk.use_minfree_levels "false"
+settings put system ro.lmk.low 1000
+settings put system ro.lmk.medium 800
+settings put system ro.lmk.critical_upgrade "false" settings put system ro.lmk.upgrade_pressure 100
+settings put system ro.lmk.critical 0
+settings put system ro.lmk.downgrade_pressure 100
+settings put system ro.lmk.kill_heaviest_task true
+settings put system ro.lmk.kill_timeout_ms 0
+settings put system perf.drop_caches 2
+settings put system ro.lmk.debug false 
+settings put system ro.lmk.swap_free_low_percentage 10
+debug.gr.swapinterval 0

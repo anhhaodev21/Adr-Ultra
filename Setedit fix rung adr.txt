@@ -1,0 +1,44 @@
+events.cpu=cpu
+
+cpu.core_speeds.cluster=value
+
+debug.sf_disable_backpressure=1
+
+debug.sf.enable_hwc_vds= 1
+
+events.gpu=gpu
+
+cpu.core_speeds cluster1= value
+
+user_refresh_rate=90
+
+peak_refresh_rate =1
+
+windowsmgr.max_events_per_sec=150
+
+ro.min_pointer_dur=8
+
+ro.max.fling_velocity=12000
+
+ro.min.fling velocity=9000
+
+ring.delay=0
+
+debug.gr.swapinterval=0
+debug.enabletr=true
+
+debug.qctwa.preservebuf = 1
+
+dev.pm.dyn_samplingrate x = 1 video.accelerate.hw=1
+
+debug.overlayui.enable=1
+
+debug.egl.hw=1
+
+Debug.egl et = 1
+
+yw = 1
+
+debug.composition.type=c2d
+
+cpu.core_speeds.cluster2=value
